@@ -52,8 +52,8 @@ To install these, open your terminal and run:
 Note: for those familiar with Git, feel free to commit and push from the command line.
 
 # Resources
-https://squidfunk.github.io/mkdocs-material/
+[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 
-https://stackedit.io/
+[StackEdit](https://stackedit.io/)
 
-https://www.mkdocs.org/
+[MkDocs Project](https://www.mkdocs.org/)
