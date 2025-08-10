@@ -10,7 +10,7 @@ This method is less technically-involved, but will require a bit of imagination.
 
 1. Sign in/sign up to [GitHub](https://github.com/).
 2. Fork the repository [here](https://github.com/EntryPointDailies/wiki/fork).
-3. Navigate to /docs and edit the corresponding file.
+3. Navigate to `/docs` and edit the corresponding file.
 4. Commit your changes to your repository.
 5. Create a pull request with your changes.
 # With GitHub Pages
