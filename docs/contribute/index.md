@@ -1,8 +1,6 @@
 
 # Contributing
-Visit [GitHub](https://github.com/entrypointdailies/wiki)
-
-Do not update the site branch immediately. This will revert all changes upon push.
+Do not write to the `site` branch. All changes will be discarded upon push.
 
 Additionally, do not duplicate content from other online sources. Write original text for the world.
 # By editing on the web
