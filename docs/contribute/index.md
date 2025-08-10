@@ -7,6 +7,7 @@ Do not update the site branch immediately. This will revert all changes upon pus
 Additionally, do not duplicate content from other online sources. Write original text for the world.
 # By editing on the web
 This method is less technically-involved, but will require a bit of imagination.
+
 1. Sign in/sign up to [GitHub](https://github.com/).
 2. Fork the repository [here](https://github.com/EntryPointDailies/wiki/fork).
 3. Navigate to /docs and edit the corresponding file.
@@ -14,6 +15,7 @@ This method is less technically-involved, but will require a bit of imagination.
 5. Create a pull request with your changes.
 # With GitHub Pages
 This method is minimally technically-involved, but will require a some setup and patience.
+
 1. Sign in/sign up to [GitHub](https://github.com/).
 2. Fork the repository [here](https://github.com/EntryPointDailies/wiki/fork). Clone all branches.
 3. Go to your repository settings, visit the `Pages` tab and select deploy from a branch, then choose to deploy from the `site` branch.
@@ -24,8 +26,11 @@ This method is minimally technically-involved, but will require a some setup and
 This method is more technically-involved, but will allow for easier editing. Prior knowledge to using Git and Python will be helpful.
 ## Dependencies
 [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/downloads) must be installed for this.
+
 [GitHub Desktop](https://desktop.github.com/download/) should also be installed.
+
 Additional Python packages must also be installed:
+
 1. mkdocs
 2. mkdocs-material
 3. markdown
@@ -33,6 +38,7 @@ Additional Python packages must also be installed:
 5. pymdown-extensions
 
 To install these, open your terminal and run:
+
 `pip install pip && pip install mkdocs-material`
 ## Running MkDocs
 1. Open GitHub Desktop and clone your repository.
@@ -47,5 +53,7 @@ Note: for those familiar with Git, feel free to commit and push from the command
 
 # Resources
 https://squidfunk.github.io/mkdocs-material/
+
 https://stackedit.io/
+
 https://www.mkdocs.org/
