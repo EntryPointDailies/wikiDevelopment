@@ -1,4 +1,4 @@
-Thermite duration: 1 minute 30 seconds + 3 seconds (for thermite to alight)
+Thermite duration: 1 minute 30 seconds (to burn) + 3 seconds (for thermite to alight)
 
 |NPCs            |Rookie|Professional|Operative|Elite|Legend|
 | -------------- | ---- | ---------- | ------- | --- | ---- |
